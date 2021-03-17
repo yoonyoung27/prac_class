@@ -39,7 +39,7 @@ An ordered list is prefaced with numbers, instead of asterisks
 2. secon item
 3. third item
 Indent each asterisk one space more than the preceding item to make a list with more depth
-* ITEM
+* ITEM  
  The list of the ITEM
  * item1
  * item2
