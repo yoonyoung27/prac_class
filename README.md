@@ -40,10 +40,12 @@ An ordered list is prefaced with numbers, instead of asterisks
 2. secon item
 3. third item
 
-Indent each asterisk one space more than the preceding item to make a list with more depth
+Indent each asterisk two space more than the preceding item to make a list with more depth
 * ITEM
   * item1
   * item2
   * item3
 
-⑧ 
+⑧ Insert two spaces after each new line for a soft break
+Hello  
+My name is Yoon-Young Jee
