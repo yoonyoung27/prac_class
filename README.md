@@ -29,3 +29,8 @@ Notice that to ensure the entire blockquote is grouped together, blank lines mus
 > Hello
 > 
 > My name is Yoon-Young Jee
+
+Preface each item in the list with an asterisk(*) to create an unordered list
+* item1
+* item2
+* item3
