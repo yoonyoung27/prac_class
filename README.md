@@ -20,7 +20,7 @@ If you want to make multiple links to the same place, it need to be updated once
 
 ⑤ Enter an exclamation point(!), wrap the alt text in brackets([]), and then wrap the link in parenthesis(()) to create an inline image link
 ![tree](imgs/Tree.jpg)  
-If you want to make multiple links to the same place, it need to be updated once at the bottom of a Markdown document by providing the same tag name wrapped in brackets, followed by a colon, followed by the link ; ![tree][tree img link]  
+If you want to make link to content, it need to be updated link at the bottom of a Markdown document by providing the image name wrapped in brackets, followed by a colon, followed by the link ; ![[Black cat][Black]  
 
-[tree img link]: imgs/Tree.jpg
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
 ⑥ 
