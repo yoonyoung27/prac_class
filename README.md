@@ -37,7 +37,7 @@ Notice that to ensure the entire blockquote is grouped together, blank lines mus
 An ordered list is prefaced with numbers, instead of asterisks
 1. first item
 2. secon item
-3. third item
+3. third item  
 Indent each asterisk one space more than the preceding item to make a list with more depth
 * ITEM
  * item1
