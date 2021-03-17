@@ -46,6 +46,6 @@ Indent each asterisk two space more than the preceding item to make a list with 
   * item2
   * item3
 
-⑧ Insert two spaces after each new line for a soft break
+⑧ Insert two spaces after each new line for a soft break  
 Hello  
 My name is Yoon-Young Jee
