@@ -3,6 +3,7 @@ markdown tutorial
 https://www.markdowntutorial.com/
 
 ① Surround words with an underscore(_) to make it _italics_  
+
 ② Surround words with two asterisks(**) to make it __bold__
 
 ③ Preface the phrase with a hash mark(#) to make headers
