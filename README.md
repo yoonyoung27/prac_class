@@ -30,7 +30,19 @@ Notice that to ensure the entire blockquote is grouped together, blank lines mus
 > 
 > My name is Yoon-Young Jee
 
-Preface each item in the list with an asterisk(*) to create an unordered list
+⑦ Preface each item in the list with an asterisk(*) to create an unordered list
 * item1
 * item2
 * item3
+An ordered list is prefaced with numbers, instead of asterisks
+1. first item
+2. secon item
+3. third item
+Indent each asterisk one space more than the preceding item to make a list with more depth
+* ITEM
+ The list of the ITEM
+ * item1
+ * item2
+ * item3
+
+⑧ 
