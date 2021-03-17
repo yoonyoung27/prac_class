@@ -42,8 +42,8 @@ An ordered list is prefaced with numbers, instead of asterisks
 
 Indent each asterisk one space more than the preceding item to make a list with more depth
 * ITEM
- * item1
- * item2
- * item3
+  * item1
+  * item2
+  * item3
 
 ⑧ 
